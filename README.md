@@ -44,3 +44,8 @@ cp .env.example .env
 | Лимит 100 файлов | ✅ |
 | Laravel Queues ready | 🔄 |
 
+## 🤝 Стек технологий
+Backend: Laravel 11 + Intervention Image v2
+Frontend: Blade + Tailwind CSS ready
+Database: MySQL
+Docker: Laravel Sail (PHP 8.3 + Nginx)
